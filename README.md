@@ -1,0 +1,1 @@
+Here i  have used two functional components , and using props i have aquired the statemens of another file. 
